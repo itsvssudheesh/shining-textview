@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="rainbow_colors" >
+        <item>@color/violet</item>
+        <item>@color/indigo</item>
+        <item>@color/blue</item>
+        <item>@color/green</item>
+        <item>@color/yellow</item>
+        <item>@color/orange</item>
+        <item>@color/red</item>
+    </array>
+</resources>
